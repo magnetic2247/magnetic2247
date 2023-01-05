@@ -1,5 +1,4 @@
-### Wannabe Game Dev
-He/Him
+### hmm
 <!--
 **magnetic2247/magnetic2247** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
